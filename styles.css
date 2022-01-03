@@ -1,0 +1,40 @@
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+body {
+  background-color: #121212;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Shizuru', cursive;
+  text-shadow: 5px 0px white;
+  font-size: 8rem;
+  color: #CD1818;
+}
+
+p {
+  font-size: 2rem;
+  color: white;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 50%;
+  border-radius: 10%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
